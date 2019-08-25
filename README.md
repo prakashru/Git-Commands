@@ -1,3 +1,12 @@
+git reset HEAD~
+git diff --cached
+git reset --hard
+git rm -f <filename>
+git rm --cached <fileName>
+
+git push -u origin <branch name>
+
+
 Git Commands
 ============
 
